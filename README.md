@@ -30,11 +30,11 @@ bash tools/build_apk.sh            # خروجی: release/ScrapBots-LastHome-v1.1
 ```
 
 ## امضای APK (Keystore)
-فایل: `keystore/scrapbots-release.keystore`
+فایل: `keystore/scrapbots-release.keystore` (همان کلید نسخهٔ ۱.۰.۰ — نصب روی نسخهٔ قبلی بدون حذف، ممکن است)
 - alias: `scrapbots`
-- store password: `ScrapBots2024!Key`
-- key password: `ScrapBots2024!Key`
-- اعتبار: ۳۰ سال • RSA 2048
+- store password: `ScrapBots#2026!k7Qz`
+- key password: `ScrapBots#2026!k7Qz`
+- اعتبار: ۳۰ سال • RSA 2048 • package: `com.arinstudio.scrapbotslasthome`
 
 > هشدار امنیتی: keystore را عمومی نگه ندارید؛ برای انتشار رسمی، این فایل را به‌صورت خصوصی نگه دارید.
 

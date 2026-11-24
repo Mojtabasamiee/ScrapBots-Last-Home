@@ -1,4 +1,4 @@
-package ir.scrapbots.lasthome;
+package com.arinstudio.scrapbotslasthome;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
